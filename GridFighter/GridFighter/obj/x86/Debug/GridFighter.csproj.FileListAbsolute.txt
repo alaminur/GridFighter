@@ -1,0 +1,9 @@
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\bin\x86\Debug\GridFighter.exe
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\bin\x86\Debug\GridFighter.pdb
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\obj\x86\Debug\GridFighter.exe
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\obj\x86\Debug\GridFighter.pdb
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\bin\x86\Debug\Content\graphics\CellIcon.xnb
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\bin\x86\Debug\Content\graphics\GridFighterFont.xnb
+C:\Users\Alamin\Documents\Visual Studio 2010\Projects\GridFighter\GridFighter\GridFighter\bin\x86\Debug\Content\graphics\GridBacking.xnb

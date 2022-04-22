@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GridFighter", "GridFighter\GridFighter\GridFighter.csproj", "{F7FF25AE-8B54-4F7C-A9C7-9893D1CB7F57}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "GridFighterContent", "GridFighter\GridFighterContent\GridFighterContent.contentproj", "{9EC928B5-EEFF-4F72-8618-9067023509F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7FF25AE-8B54-4F7C-A9C7-9893D1CB7F57}.Debug|x86.ActiveCfg = Debug|x86
+		{F7FF25AE-8B54-4F7C-A9C7-9893D1CB7F57}.Debug|x86.Build.0 = Debug|x86
+		{F7FF25AE-8B54-4F7C-A9C7-9893D1CB7F57}.Release|x86.ActiveCfg = Release|x86
+		{F7FF25AE-8B54-4F7C-A9C7-9893D1CB7F57}.Release|x86.Build.0 = Release|x86
+		{9EC928B5-EEFF-4F72-8618-9067023509F2}.Debug|x86.ActiveCfg = Debug|x86
+		{9EC928B5-EEFF-4F72-8618-9067023509F2}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
